@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColourMemory", "ColourMemory\ColourMemory.csproj", "{DBC5A5A9-03E4-4FC0-A461-1F091B10FE04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColourMemory.Tests", "ColourMemory.Tests\ColourMemory.Tests.csproj", "{D4B45F65-D4FA-4AA5-B021-4D90747BA1F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBC5A5A9-03E4-4FC0-A461-1F091B10FE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC5A5A9-03E4-4FC0-A461-1F091B10FE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC5A5A9-03E4-4FC0-A461-1F091B10FE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC5A5A9-03E4-4FC0-A461-1F091B10FE04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B45F65-D4FA-4AA5-B021-4D90747BA1F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B45F65-D4FA-4AA5-B021-4D90747BA1F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B45F65-D4FA-4AA5-B021-4D90747BA1F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B45F65-D4FA-4AA5-B021-4D90747BA1F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
